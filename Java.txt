@@ -1,2 +1,6 @@
 Hello Java World!!!!!!!!!!!!!
+<<<<<<< HEAD
 Hi EveryOne deleted
+=======
+Hi 
+>>>>>>> 66bed025a42c59a067d008b893aadf5970a5f044
