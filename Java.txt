@@ -1,7 +1,2 @@
 Hello Java World!!!!!!!!!!!
-12344
-<<<<<<< HEAD
-1234
-=======
-sreedhar
->>>>>>> feature
+
